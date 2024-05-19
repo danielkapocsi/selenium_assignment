@@ -4,8 +4,8 @@ Testing mediamarkt.hu
 
 # Setup
 
-1: download chromedriver from https://developer.chrome.com/docs/chromedriver/downloads
-2: put the chromedriver-win64 folder that contains the chromedriver.exe file to the root directory of the project
+- 1: download chromedriver from https://developer.chrome.com/docs/chromedriver/downloads
+- 2: put the chromedriver-win64 folder that contains the chromedriver.exe file to the root directory of the project
 
 # Completed tasks
 
