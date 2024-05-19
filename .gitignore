@@ -1,3 +1,4 @@
 .gradle
 build
 /tests/bin/test/
+/tests/chromedriver-win64
