@@ -19,9 +19,9 @@ Testing mediamarkt.hu
 - Static Page test :heavy_check_mark:
 - Multiple page test from array (easily extendable static page tests) :heavy_check_mark:
 - complex xpath (eg. //div//a[@href='asd']) (13)
-- Filling or reading textarea content :X:
+- Filling or reading textarea content ❌
 - Filling or reading drop-down :heavy_check_mark:
-- Filling or reading Radio button :X:
+- Filling or reading Radio button ❌
 - At least 4 class :heavy_check_mark:
 - At least 6 class :heavy_check_mark:
 - At least 8 class :heavy_check_mark:
@@ -36,13 +36,13 @@ Testing mediamarkt.hu
 - WebDriver configuration (modify something in the browser options) :heavy_check_mark:
 - Manipulate cookie meaningfully (without ui), e.g. avoid showing up consent popup without clicking onto it :heavy_check_mark:
 - Hover test :heavy_check_mark:
-- Drag&Drop :X:
-- File Upload :X:
+- Drag&Drop ❌
+- File Upload ❌
 - History test (browser back button) :heavy_check_mark:
-- Test case dependencies :X:
-- E-mail checking (eg. Registration with activation e-mail) :X:
-- Test with random data :X:
-- Download multiple files to a folder from an user protected page :X:
+- Test case dependencies ❌
+- E-mail checking (eg. Registration with activation e-mail) ❌
+- Test with random data ❌
+- Download multiple files to a folder from an user protected page ❌
 - Using configuration file :heavy_check_mark:
 - JavascriptExecutor :heavy_check_mark:
 
