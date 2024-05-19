@@ -4,7 +4,7 @@ Docker compose: https://youtu.be/7LtPNJetTFA
 
 Selenium testing: https://youtu.be/82_cVdEpVkM
 
-Weekly task: https://youtu.be/xnZkZL6EVRA
+Weekly task: https://youtu.be/xnZkZL6EVRA :heavy_check_mark:
 
 # Selenium testing
 
